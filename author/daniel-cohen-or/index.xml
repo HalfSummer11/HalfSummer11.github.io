@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Yijia Weng</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Daniel Cohen-Or | Yijia Weng</title>
+    <link>/author/daniel-cohen-or/</link>
+      <atom:link href="/author/daniel-cohen-or/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Cohen-Or</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 20:00:00 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu4e8756ae3337ab6ac08a27c57da263a3_78536_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Daniel Cohen-Or</title>
+      <link>/author/daniel-cohen-or/</link>
     </image>
     
     <item>
