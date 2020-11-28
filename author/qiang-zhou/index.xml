@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiang Zhou | Yijia Weng</title>
+    <link>/author/qiang-zhou/</link>
+      <atom:link href="/author/qiang-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiang Zhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2020 20:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4e8756ae3337ab6ac08a27c57da263a3_78536_512x512_fill_lanczos_center_2.png</url>
+      <title>Qiang Zhou</title>
+      <link>/author/qiang-zhou/</link>
+    </image>
+    
+    <item>
+      <title>CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds</title>
+      <link>/publication/cvpr21_category_level_object_pose_tracking/</link>
+      <pubDate>Tue, 17 Nov 2020 20:00:00 +0800</pubDate>
+      <guid>/publication/cvpr21_category_level_object_pose_tracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
